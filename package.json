@@ -1,0 +1,28 @@
+{
+  "name": "ewd-vista-security",
+  "description": "ewd-vista-security: EWD.js REST interface for VistA: Security / Authentication Layer",
+  "version": "0.1.0",
+  "author": {
+    "name": "Rob Tweed",
+    "email": "rtweed@mgateway.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/robtweed/ewd-vista-security.git"
+  },
+  "os": [
+    "any"
+  ],
+  "directories": {
+    "lib": "./lib/"
+  },
+  "main": "./lib/ewd-vista-security.js",
+  "engines": {
+    "node": ">=0.2.2"
+  },
+  "dependencies": {
+  },
+  "licenses": [
+    "Apache"
+  ]
+}
