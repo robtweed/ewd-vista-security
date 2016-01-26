@@ -2,6 +2,10 @@
  
 EWD.js REST Interface for VistA: Security / Authentication Layer
 
+## Acknowledgements
+
+This project was inspired by the efforts of Nikolay Topalov, Joel Mewton & SAN Business Consultants
+
 ## Installation
 
     npm install ewd-vista-security
